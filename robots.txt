@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wangwz1972.github.io/sitemap.xml
